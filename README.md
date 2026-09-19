@@ -210,7 +210,7 @@ See [`docs/PROJECT_ARCHITECTURE.md`](docs/PROJECT_ARCHITECTURE.md) (§23–24) f
 
 **Adeyinka Adedotun** — architect and builder of Praxos.
 
-- LinkedIn: [adeyinka-adedotun](https://www.linkedin.com/in/adeyinka-adedotun)
+- LinkedIn: [adeyinka-adedotun](https://www.linkedin.com/in/adeyinka-adedotun-626350438)
 - Email: [adedotunyinka10@gmail.com](mailto:adedotunyinka10@gmail.com)
 
 > Praxos demonstrates end-to-end platform thinking: an ambitious, domain-rich product vision paired with disciplined, governed engineering execution — from deterministic APIs and clear architecture to enforced role boundaries and production-grade CI/CD.
