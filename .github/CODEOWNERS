@@ -1,0 +1,12 @@
+# Replace placeholder teams with your real GitHub teams/users.
+/backend/                 @backend-team
+/frontend/                @frontend-team
+/database/                @database-team
+/platform/                @platform-team
+/.github/workflows/       @platform-team
+/contracts/               @architecture-team
+/docs/architecture/       @architecture-team
+/docs/security/           @security-team
+/.github/agents/          @ai-platform-team
+/.github/skills/          @ai-platform-team
+/governance/              @ai-platform-team @security-team
