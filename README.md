@@ -208,9 +208,9 @@ See [`docs/PROJECT_ARCHITECTURE.md`](docs/PROJECT_ARCHITECTURE.md) (§23–24) f
 
 ## About
 
-**Adaramola Omolewa** — architect and builder of Praxos.
+**Adeyinka Adedotun** — architect and builder of Praxos.
 
-- LinkedIn: [adaramola-omolewa](https://www.linkedin.com/in/adaramola-omolewa)
-- Email: [adaramolaomolewa25@gmail.com](mailto:adaramolaomolewa25@gmail.com)
+- LinkedIn: [adeyinka-adedotun](https://www.linkedin.com/in/adeyinka-adedotun)
+- Email: [adedotunyinka@gmail.com](mailto:adedotunyinka@gmail.com)
 
 > Praxos demonstrates end-to-end platform thinking: an ambitious, domain-rich product vision paired with disciplined, governed engineering execution — from deterministic APIs and clear architecture to enforced role boundaries and production-grade CI/CD.
