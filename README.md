@@ -1,2 +1,2 @@
 # Praxos
-Praxos - Real Estate Development OS . slug: Praxos
+Praxos - Real Estate Development OS
